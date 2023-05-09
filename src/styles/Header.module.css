@@ -1,0 +1,29 @@
+.Logo{
+  width: 20%;
+  height: 5%;
+}
+
+.NavDropdownitem:hover {
+  background-color:#ffbd59;
+  font-size: larger;
+  color: black;
+  font-weight: 400;
+  
+  
+}
+.Header{
+  background-color:#fff;
+  box-shadow: 1px 0px 1px #ffbd59;
+   
+}
+.NavLink:hover {
+  background-color:#ffbd59;
+}
+.nav{
+  color: black;
+  font-weight: 400;
+  font-size: larger;
+  display: flex;
+  flex: 2;
+  justify-content:space-evenly;
+}

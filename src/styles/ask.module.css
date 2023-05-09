@@ -1,0 +1,35 @@
+
+.askes{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+  direction: rtl;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img_ask{
+  margin-top: -50px;
+  height: 300px;
+  width: 50%;
+  object-fit: contain;
+  margin-right: 40%;
+  transform: scaleX(-1);
+}
+
+.sec1{
+  width:50%;
+  height: 300px;
+}
+.sec2{
+  width: 50%;
+  height: 300px;
+
+}
+.head{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}

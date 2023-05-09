@@ -1,0 +1,44 @@
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color:  rgb(237, 237, 237);
+  padding: 30px;
+  margin-bottom: 0px;
+  color: darkslategrey;
+  row-gap: 100px;
+  font-weight: bold;
+  margin-top:100px ;
+}
+
+.divfooter {
+  display: flex;
+  justify-content: right;
+  column-gap: 5px;
+  text-align: center;
+  margin: 10px;
+}
+
+.footerimag {
+  width: 150px;
+  height: 150px;
+  margin-left: 200px;
+  margin-bottom: 40px;
+}
+
+.divfooter1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.footericons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+h3{
+  direction: rtl;
+  text-align: right;
+}
